@@ -127,7 +127,7 @@ o con bases de datos relacionales, en un servidor XAMPP y una base de datos de M
 
 ## Colaboradores
 
-* Yudi Lorena Cruz Taborda
+* Yudi Lorena Cruz Tibocha
 * Paula Katherine Castaño Rozo
 * Jorge Alberto Leal
 * David Santiago Montoya
